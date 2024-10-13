@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @redjackfred
-- 👀 I’m interested in developing C/C++, Java, Python, Web applicationss
+- 👀 I’m interested in developing Java, Python, C/C++, Web applications( React.js, Next.js, PostgreSQL, Node.js )
 - 🌱 I’m currently learning everything about CS that I don't know yet
 - 💞️ I’m looking to collaborate on every project that improves human lives
 - 📫 How to reach me: redjackfred@gmail.com
