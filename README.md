@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on every project that improves human lives
 - 📫 How to reach me: <redjackfred@gmail.com>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的帳號&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redjackfred&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的帳號&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redjackfred&layout=compact&theme=radical)
 <!---
 redjackfred/redjackfred is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
