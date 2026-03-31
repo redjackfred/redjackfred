@@ -12,6 +12,10 @@
 
 # 📊 GitHub Stats
 
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=redjackfred&show_icons=true&theme=nord)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=redjackfred&theme=dark)
+
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=redjackfred&layout=compact&theme=radical)
 ![](https://github-readme-stats.vercel.app/api?username=redjackfred&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=redjackfred&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=redjackfred&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
