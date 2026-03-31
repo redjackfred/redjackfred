@@ -17,6 +17,8 @@
 
 ![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=redjackfred&layout=compact&theme=radical)
 
+![3D Contrib](profile-3d-contrib/profile-night-view.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=redjackfred&icon=0&color=0)](https://visitcount.itsvg.in)
 
