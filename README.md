@@ -8,6 +8,9 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=redjackfred&theme=dark)
 
 ![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=redjackfred&layout=compact&theme=radical)
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 <!---
 redjackfred/redjackfred is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
