@@ -15,9 +15,11 @@
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=redjackfred&show_icons=true&theme=nord)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=redjackfred&theme=dark)
 
+## Top Languages
+
 ![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=redjackfred&layout=compact&theme=radical)
 
-### 📊 我的 GitHub 3D 貢獻
+## My GitHub Contribution Graph
 
 ![3D Contrib](profile-3d-contrib/profile-night-view.svg)
 
